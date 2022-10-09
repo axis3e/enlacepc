@@ -1,0 +1,30 @@
+@font-face {
+    font-family: "prueba";
+    src: url(../enlacepc/Inconsolata/Inconsolata-VariableFont_wdth\,wght.ttf);
+}
+body{
+    margin-top:2em;
+    margin-bottom: 5em;
+    margin-right: 10em;
+    margin-left: 10em;
+    text-align: justify;
+    color: rgba(255, 255, 255, 0.603);
+    font-family:"prueba";
+    background-color: rgb(0, 0, 0);
+}
+h1{
+    text-shadow: 4px 4px rgb(56, 56, 56);
+    color: rgba(255, 255, 255, 0.692);
+    background-color: black;
+    text-align: center;
+    }
+a{
+    font-size:larger;
+    color: rgb(97, 97, 97);
+}
+a:hover{
+    color: white;
+}
+div{
+    text-align: center;
+}
